@@ -1,3 +1,8 @@
+# DISCLAIMER
+
+As of 2026, Highlightr is no longer actively maintained. We recommend using [HighlighterSwift](https://github.com/smittytone/HighlighterSwift) instead.
+
+
 # Highlightr
 
 Highlightr is an iOS & macOS syntax highlighter built with Swift. It uses [highlight.js](https://highlightjs.org/) as it core, supports [185 languages and comes with 89 styles](https://highlightjs.org/static/demo/).
